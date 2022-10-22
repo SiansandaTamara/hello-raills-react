@@ -15,7 +15,7 @@ Use rails  to build greeting api. The app generate random greeting to user
 - [x] VS Code
 
 ## Link to Front-end
-[React](https://github.com/SiansandaTamara/hello-react-front-end)
+[React](https://github.com/SiansandaTamara/hello-react-frontend/pull/1)
 
 
 ## [Go live](#)
