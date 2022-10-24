@@ -36,7 +36,7 @@ In the terminal, go to your file directory and run this command.
 
 > Clone the repository
 ```
-$ git clone https://github.com/Siansanda/hello-rails-back-end.git
+$ git clone https://github.com/SiansandaTamara/hello-raills-react
 ```
 ```
 $ cd hello-rails-backend
@@ -88,4 +88,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/SiansandaTamara/hello-rails-backend/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/SiansandaTamara/hello-rails/blob/dev/LICENSE) licensed.
